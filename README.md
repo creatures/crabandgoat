@@ -1,12 +1,9 @@
 <pre>
-                         ,,
-                        *MM             ,gM""bg                                     mm
-                         MM             8MI  ,8                                     MM
- ,p6"bo `7Mb,od8 ,6"Yb.  MM,dMMb.        WMp,"           .P"Ybmmm ,pW"Wq.   ,6"Yb.mmMMmm
-6M'  OO   MM' "'8)   MM  MM    `Mb      ,gPMN.  jM"'    :MI  I8  6W'   `Wb 8)   MM  MM
-8M        MM     ,pm9MM  MM     M8     ,M.  YMp.M'       WmmmP"  8M     M8  ,pm9MM  MM
-YM.    ,  MM    8M   MM  MM.   ,M9     8Mp   ,MMp       8M       YA.   ,A9 8M   MM  MM
- YMbmd' .JMML.  `Moo9^Yo.P^YbmdP'      `YMbmm'``MMm.     YMMMMMb  `Ybmd9'  `Moo9^Yo.`Mbmo
-                                                        6'     dP
-                                                        Ybmmmd'
+                         888         ,d8P\            /                      d8
+ e88~~\ 888-~\   /~~~8e  888-~88e    888b |     e88~88e  e88~-_    /~~~8e  _d88__
+d888    888          88b 888  888b   `Y88X      888 888 d888   i       88b  888
+8888    888     e88~-888 888  8888    /Y88b/    "88_88" 8888   |  e88~-888  888
+Y888    888    C888  888 888  888P   | `Y88b     /      Y888   ' C888  888  888
+ "88__/ 888     "88_-888 888-_88"     \_/Y88b   Cb       "88_-~   "88_-888  "88_/
+                                                 Y8""8D
 </pre>
