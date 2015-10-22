@@ -7,3 +7,12 @@ Y888    888    C888  888 888  888P   | `Y88b     /      Y888   ' C888  888  888
  "88__/ 888     "88_-888 888-_88"     \_/Y88b   Cb       "88_-~   "88_-888  "88_/
                                                  Y8""8D
 </pre>
+
+<br/>
+<br/>
+
+## Deployment
+
+- SSH into the Pixels & Bits server.
+- Navigate to the Crab & Goat directory.
+- Pull the latest code from the Github repo.
