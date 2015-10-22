@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+    <meta charset=utf-8>
+    <title>Crab & Goat</title>
+
+    <!-- Styles -->
+    <style>
+      html {
+        background: url(cave.jpg) no-repeat center center fixed;
+        background-size: cover;
+      }
+      header {
+        position: absolute;
+        right: 0;
+        bottom: 22%;
+        left: 0;
+        width: 100%;
+        color: transparent;
+        font-family: "Vollkorn";
+        font-size: 5.5vw;
+        font-weight: 400;
+        letter-spacing: -.05vw;
+        line-height: 1em;
+        text-align: center;
+        text-shadow: 0 0 4px rgba(228,222,216,1);
+        animation: fadein 12s;
+        opacity: .75;
+      }
+      @keyframes fadein {
+        from { opacity: .1; }
+        to { opacity: .75; }
+      }
+    </style>
+
+    <!-- Fonts -->
+    <script type="text/javascript">
+      (function() {
+        var link_element = document.createElement("link"),
+            s = document.getElementsByTagName("script")[0];
+        if (window.location.protocol !== "http:" && window.location.protocol !== "https:") {
+            link_element.href = "http:";
+        }
+        link_element.href += "//fonts.googleapis.com/css?family=Vollkorn:700,400italic,400,700italic";
+        link_element.rel = "stylesheet";
+        link_element.type = "text/css";
+        s.parentNode.insertBefore(link_element, s);
+      })();
+    </script>
+  </head>
+
+  <body>
+    <header>
+      <span>Crab</span>
+      <span class="ampersand">&</span>
+      <span>Goat</span>
+    </header>
+  </body>
+
+</html>
