@@ -8,8 +8,6 @@ Y888    888    C888  888 888  888P   | `Y88b     /      Y888   ' C888  888  888
                                                  Y8""8D
 </pre>
 
-<br/>
-
 ## Deployment
 
 - SSH into the Pixels & Bits server.
